@@ -1,5 +1,5 @@
 #include <stdio.h>
-void main()
+int main()
 {
     int arr[100],i,j,min=0,n,temp;
     printf("enter the number:");
